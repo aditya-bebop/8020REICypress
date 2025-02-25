@@ -1,0 +1,28 @@
+{
+    "homePage" : "https://vue-aknxx1.stackblitz.io/",
+    "newPage" : "https://vue-aknxx1.stackblitz.io/new",
+    "runButton" : "Run this project",
+
+    "char1VerDetalle" : "Ver detalle",
+    "char1Name" : "Rick Sanchez",
+    "char1Url" : "https://vue-aknxx1.stackblitz.io/character/1",
+    "char1Gender" : "Male",
+    "char1Specie" : "Human",
+    "char1Status" : "Alive",
+
+    "char2VerDetalle" : "Ver detalle",
+    "char2Name" : "Morty Smith",
+    "char2Url" : "https://vue-aknxx1.stackblitz.io/character/2",
+    "char2Gender" : "Male",
+    "char2Specie" : "Human",
+    "char2Status" : "Alive",
+
+    "char3VerDetalle" : "Ver detalle",
+    "char3Name" : "Summer Smith",
+    "char3Url" : "https://vue-aknxx1.stackblitz.io/character/3",
+    "char3Gender" : "Female",
+    "char3Specie" : "Human",
+    "char3Status" : "Alive"
+
+
+}
